@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/1923da77-2636-477b-8663-a9297fc8dc0d">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shayan625&label=Profile%20views&color=0e75b6&style=flat" alt="shayan625" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan625&label=Profile%20views&color=0e75b6&style=flat" alt="shayan625" /> </p>
 
 - 👯 I’m looking to collaborate on **Data Science,Web Development and Blockchain projects**
 
